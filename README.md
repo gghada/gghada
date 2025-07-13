@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I mostly design websites and mobile apps then convert them to code: raw HTML/CSS/JS (I don't use frameworks for personal projects).</p>
+<p align="left">I mostly design websites and mobile apps then convert them to code.</p>
 
 ###
 
